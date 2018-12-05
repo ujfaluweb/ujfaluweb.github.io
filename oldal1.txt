@@ -1,0 +1,26 @@
+
+
+    Céginfó A pizza története Pizzák Megrendelés 
+
+Üdvözöljük a Pacman Pizza oldalán!
+
+A Pacman Pizza 10 éve alapította meg elsõ pizzériáját, azóta már 7 pizzériánk is várja az éhes vendégseregletet.
+
+Állásajánlat
+
+Ha szeretnél csapatunk tevékeny tagja lenni és rendelkezel is munkatapasztalattal, akkor ne habozz és küldj önéletrajzot.
+
+Jelenleg teljes munkaidõbe keresünk:
+
+    2 fõ szakácsot
+    1 fõ motoros futárt
+
+Pizzák
+Név 	32cm ára 	45cm ára
+Gombás 	1300 Ft. 	2100 Ft.
+Vegetáriánus 	1600 Ft. 	2900 Ft.
+Havaii 	1300 Ft. 	2100 Ft.
+Magyaros 	1290 Ft. 	2100 Ft.
+Sonkás 	1420 Ft. 	2400 Ft.
+Szalámis 	1400 Ft. 	2600 Ft.
+Tonhalas 	1440 Ft. 	2500 Ft.
